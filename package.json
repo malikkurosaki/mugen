@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "mugen": "index.js"
-  },
-  "files": [
-    "index.js",
-    "package.json",
-    "apa.js"
-  ]
+    "mugen": "bin/mugen.js"
+  }
 }
